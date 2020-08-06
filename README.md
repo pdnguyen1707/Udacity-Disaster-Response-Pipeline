@@ -58,7 +58,7 @@ Using a standard desktop/laptop (4 CPUs, RAM 8Gb or above) it may take several h
 <a name="authors"></a>
 ## Authors
 
-* [Matteo Bonanomi](https://github.com/matteobonanomi)
+* [Nguyen Phan](https://github.com/pdnguyen1707)
 
 <a name="license"></a>
 ## License
