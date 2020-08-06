@@ -83,4 +83,4 @@ Using a standard desktop/laptop (4 CPUs, RAM 8Gb or above) it may take several h
 
 3. The main page shows some graphs about training dataset, provided by Figure Eight
 
-![Main Page]Screenshots/main_page.png)
+![Main Page](Screenshots/main_page.png)
